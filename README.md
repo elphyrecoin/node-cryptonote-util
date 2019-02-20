@@ -27,7 +27,7 @@ Supported on the following platforms:
 
 ```bash
 sudo apt-get install libboost-all-dev
-git clone https://github.com/turtlecoin/node-cryptonote-util
+git clone https://github.com/elphyrecoin/node-cryptonote-util
 cd node-cryptonote-util
 npm install && npm test
 ```
